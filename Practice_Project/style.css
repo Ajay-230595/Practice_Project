@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(217, 235, 237);
+    font-family: 'Baloo 2', sans-serif;
+
+
+}
+
+#navbar {
+    height: 60px;
+    background-color: black;
+}
+
+#button {
+    background-color: orange;
+}
+
+#amazonlink {
+    color: orange;
+    font-weight: bold;
+    background-color: black;
+}
+
+a {
+    margin-right: 200px;
+    background-color: black;
+    /* padding: 20px; */
+    color: white;
+}
+.Search{
+    margin-left: 55px;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin: 35px;
+    padding: 50px;
+    border: 2px solid black;
+    display: inline-block;
+
+
+}
+#content{
+    height: 800px;
+}
+footer{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+pre{
+    background-color: black;
+    color: white;
+}
